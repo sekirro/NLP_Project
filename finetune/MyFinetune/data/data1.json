@@ -1,0 +1,26 @@
+[
+    {
+        "conversations": [
+            {
+                "role": "system",
+                "content": "You are a teacher."
+            },
+            {
+                "role": "user",
+                "content": "什么是机器学习？"
+            },
+            {
+                "role": "assistant",
+                "content": "机器学习是人工智能的一个子领域，它使计算机系统能够通过经验自动改进其性能。"
+            },
+            {
+                "role": "user",
+                "content": "那深度学习呢？"
+            },
+            {
+                "role": "assistant",
+                "content": "深度学习是机器学习的一个分支，它使用多层神经网络来学习数据的层次化表示。主要特点是：\n1. 自动特征学习\n2. 端到端学习\n3. 需要大量数据\n4. 计算密集型"
+            }
+        ]
+    }
+]
