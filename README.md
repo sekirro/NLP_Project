@@ -1,10 +1,9 @@
-## 要求的文件
+## 文件包含
 
-1. PPT和技术文档在根文件夹
-2. 评估代码在evaluate/evaluate_code
-3. 评估结果和绘制代码在evaluate/evaluate_result
-4. 微调代码在finetune文件夹
-5. 系统实现代码在ui文件夹
+1. 评估代码在evaluate/evaluate_code
+2. 评估结果和绘制代码在evaluate/evaluate_result
+3. 微调代码在finetune文件夹
+4. 系统实现代码在ui文件夹
 
 ## 项目如何启动
 
