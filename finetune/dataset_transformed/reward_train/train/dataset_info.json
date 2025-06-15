@@ -1,0 +1,46 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 2886656,
+  "description": "",
+  "download_checksums": {
+    "D:/Desktop/NLP/finetune/archive/reward_train.csv": {
+      "num_bytes": 2855173,
+      "checksum": null
+    }
+  },
+  "download_size": 2855173,
+  "features": {
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_chosen": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response_rejected": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 5741829,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2886656,
+      "num_examples": 3800,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

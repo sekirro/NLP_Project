@@ -1,2 +1,3 @@
-rouge-1-p,rouge-1-r,rouge-1-f,rouge-2-p,rouge-2-r,rouge-2-f,rouge-l-p,rouge-l-r,rouge-l-f
-0.02,0.02,0.0199999999,0.0,0.0,0.0,0.02,0.02,0.0199999999
+version https://git-lfs.github.com/spec/v1
+oid sha256:08ea78e0dc20360fde1dd8eef9172f38b178e87a4860de460d69630f5c70312e
+size 150

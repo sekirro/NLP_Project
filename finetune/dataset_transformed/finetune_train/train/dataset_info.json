@@ -1,0 +1,47 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 1347223029,
+  "description": "",
+  "download_checksums": {
+    "D:/Desktop/finetune/archive/finetune_train.csv": {
+      "num_bytes": 1337908680,
+      "checksum": null
+    }
+  },
+  "download_size": 1337908680,
+  "features": {
+    "instruction": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "output": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 2685131709,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1347223029,
+      "num_examples": 2066589,
+      "shard_lengths": [
+        780000,
+        780000,
+        506589
+      ],
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
